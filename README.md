@@ -20,8 +20,6 @@
 
 <div>
 <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=rlruedas&show_icons=true&theme=gruvbox" />
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlruedas&layout=compact&theme=onedark" />
-
 </div>
 
 
