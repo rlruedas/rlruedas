@@ -18,9 +18,6 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<div>
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=rlruedas&show_icons=true&theme=gruvbox" />
-</div>
 
 
 
